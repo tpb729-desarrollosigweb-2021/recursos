@@ -4,7 +4,7 @@
 ----------------------
 - Documentación sobre HTML en MDN Web Docs: [HTML: Lenguaje de etiquetas de hipertexto - MDN](https://developer.mozilla.org/es/docs/Web/HTML)
 - Documentación sobre HTML en W3Schools: [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
-- Servicio de validación de documentos web: [The W3C Markup Validation Service](https://validator.w3.org/)
+- Servicio de validación de documentos web de W3C: [The W3C Markup Validation Service](https://validator.w3.org/)
 
 ## Git y GitHub
 ----------------------

@@ -1,10 +1,5 @@
 # Recursos
 
-## HTML
-----------------------
-- Documentación sobre HTML en MDN Web Docs: [HTML: Lenguaje de etiquetas de hipertexto - MDN](https://developer.mozilla.org/es/docs/Web/HTML)
-- Documentación sobre HTML en W3Schools: [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
-- Servicio de validación de documentos web de W3C: [The W3C Markup Validation Service](https://validator.w3.org/)
 
 ## Git y GitHub
 ----------------------
@@ -12,7 +7,17 @@
 - Sitio oficial de Git: [Git](https://git-scm.com/)
 - Sitio oficial de GitHub: [GitHub](https://github.com/)
 
+## HTML
+----------------------
+- Documentación sobre HTML en MDN Web Docs: [HTML: Lenguaje de etiquetas de hipertexto - MDN](https://developer.mozilla.org/es/docs/Web/HTML)
+- Documentación sobre HTML en W3Schools: [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
+- Servicio de validación de documentos web de W3C: [The W3C Markup Validation Service](https://validator.w3.org/)
+
 ## Interfaz de línea de comandos del sistema operativo
 ------------------------------------------------------
 - Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
 - Algunos comandos básicos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+
+## Leaflet
+----------
+- Libro: [Hands-On Data Visualization (Dougherty & Ilyankou, 2021)](https://handsondataviz.org/)
